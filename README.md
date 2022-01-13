@@ -2,7 +2,7 @@
 - 👀 I'm interested in testing. Currently,I'm learning test automation in Java
 - 🌱 I'm recently completed a Software QA engineer course and open to new projects
 - 💞️ I'm looking for an opportunity to apply my skills and develop my experience to QA Automation engineer
-- 📫 How to reach me: Email: zumaletto@gmail.com
+- 📫 How to reach me: Email: lesya.kirillova85@gmail.com or zumaletto@gmail.com
                       Telegram: @zumaletto85
 
 
